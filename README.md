@@ -1,2 +1,2 @@
-# client-server-python
-Simple client-server codes for various problems using Socket Programming in Python
+# Socket Programming
+Basic implementation of TCP and UDP communication using socket module in python
